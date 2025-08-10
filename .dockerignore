@@ -1,0 +1,11 @@
+.dockerignore
+docker-compose.prod.yml
+docker-compose.yml
+Dockerfile
+.venv
+__pycache__
+.gitignore
+.python-version
+README.md
+uv.lock
+pyproject.toml
